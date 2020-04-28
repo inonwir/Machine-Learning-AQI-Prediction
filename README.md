@@ -1,5 +1,5 @@
 # AQI-Prediction
-Machine Learning Assignment - Air Quality Index prediction
+Machine Learning Assignment - Air Quality Index prediction<br/>
 Prediction for AQI in October 2019, Bangkok Thailand. Using AQI dataset from September 2019.
 
 # Result
